@@ -1,5 +1,5 @@
 # Learning Neural Networks
-This repository contains various projects related to computer vision, natural language processing which I did as an attempt to understand the stuff better. New stuff is keep on added in this repo. Most of the projects here are evolved from the experimentation with various things like hyperparameters or other fine tunings.
+This repository contains various projects related to computer vision, natural language processing which I did as an attempt to understand the stuff better. New stuff is keep on added in this repo. Most of the projects here are evolved from the experimentation with various things like hyperparameters or other fine tuning.
 
 The following projects repositories are available:
 
@@ -10,3 +10,4 @@ The following projects repositories are available:
 - Character level RNN
 - Implementing Backpropagation
 - Word2Vec using SkipGram
+- Generative Adversarial Networks
